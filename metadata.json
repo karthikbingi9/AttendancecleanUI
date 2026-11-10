@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Lumina Glass Attendance",
+  "description": "Apple Liquid Glass-inspired Smart Attendance Calculator, Weekly Timetable AI Extractor, and Live What-If Bunk & Catch-Up Simulator.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
